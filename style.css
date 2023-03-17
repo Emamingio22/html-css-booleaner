@@ -72,3 +72,16 @@ table {
 .t3 {
     background-color: rgb(211, 250, 248);
 }
+
+
+
+.content {
+    background-color: rgb(2, 2, 77);
+    color: white;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+}
+
