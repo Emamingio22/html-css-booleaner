@@ -1,0 +1,14 @@
+
+.color {
+    background-color: rgb(116, 211, 255);
+    height: 100px;
+}
+
+.dimension {
+    width: 170px;
+}
+
+.resize {
+    width: 420px;
+    height: 300px;
+}
