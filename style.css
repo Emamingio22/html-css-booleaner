@@ -15,16 +15,60 @@
 
 
 .sottotitolo {
-    
+
 }
 
   
 
 
-span {
+.p1 {
+    color: rgb(116, 211, 255);
+}
+
+
+
+
+.colore {
     background-color: yellow;
 }
 
 .size {
     font-size: 11px;
+}
+
+ul {
+    
+    padding-left: 0%;
+    list-style-position: inside
+    
+
+}
+
+
+
+.dim {
+    font-size: 12px;
+}
+
+
+
+table {
+    font-size: 12px;
+}
+
+.ti {
+    background-color: rgb(116, 211, 255);
+}
+
+.t1{
+    background-color: rgb(116, 211, 255);
+    color: white;
+}
+
+.t2 {
+    background-color: rgb(190, 225, 235);
+}
+
+.t3 {
+    background-color: rgb(211, 250, 248);
 }
